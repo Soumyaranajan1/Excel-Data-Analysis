@@ -23,9 +23,9 @@ https://github.com/Soumyaranajan1/Excel-Data-Analysis/blob/main/salesvision.xlsx
 # “Full Analyzed Report ”:
 ![image](https://github.com/user-attachments/assets/b3310599-1ef4-4813-8743-4d937114d229)
 # Conclusion:
-•	Sales peaked in May & June, declining towards year-end.
-•	Women (64%) made more purchases than men. Adults (34.59%) were the top buyers.
-•	Maharashtra, Karnataka, and Uttar Pradesh had the highest sales.
-•	92% of orders were delivered, with 3% cancelled and 2% refunded.
-•	Amazon (35%) led in orders, followed by Myntra (23%) and Flipkart (22%).
-•	Popular categories included Ethnic Dress, Sarees, and Kurtas.
+## •	Sales peaked in May & June, declining towards year-end.
+## •	Women (64%) made more purchases than men. Adults (34.59%) were the top buyers.
+## •	Maharashtra, Karnataka, and Uttar Pradesh had the highest sales.
+## •	92% of orders were delivered, with 3% cancelled and 2% refunded.
+## •	Amazon (35%) led in orders, followed by Myntra (23%) and Flipkart (22%).
+## •	Popular categories included Ethnic Dress, Sarees, and Kurtas.
